@@ -1,4 +1,4 @@
-# User Authencation API For POS
+# User Authentication API For POS
 
 > An API for registering and authenticating users for point of sale system.
 
