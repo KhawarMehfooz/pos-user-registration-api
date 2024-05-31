@@ -1,6 +1,6 @@
-# POS User Registration API
+# User Authencation API For POS
 
-> An API for registering users for point of sale system.
+> An API for registering and authenticating users for point of sale system.
 
 ## API Endpoints
 
