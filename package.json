@@ -4,7 +4,7 @@
   "description": "An API for registering users for point of sale system.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest --detectOpenHandles",
     "dev": "nodemon index.js",
     "start": "node index.js"
   },
@@ -19,6 +19,9 @@
     "mongoose": "^8.4.0"
   },
   "devDependencies": {
-    "nodemon": "^3.1.2"
+    "jest": "^29.7.0",
+    "mongodb-memory-server": "^9.3.0",
+    "nodemon": "^3.1.2",
+    "supertest": "^7.0.0"
   }
 }
