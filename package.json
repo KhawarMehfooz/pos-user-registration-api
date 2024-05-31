@@ -8,8 +8,12 @@
     "dev": "nodemon index.js",
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "user registration api",
+    "nodejs api",
+    "REST API"
+  ],
+  "author": "Khawar Mehfooz",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
